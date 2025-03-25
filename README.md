@@ -13,8 +13,8 @@ chmod +x TraceHunter.sh
 
 ## Uso
 Para executar o script, utilize o seguinte comando:
-```bash
-sudo ./TraceHunter.sh
+  ```bash
+  sudo ./TraceHunter.sh
 
 ### Observações
 O script verifica se está sendo executado como root. Se não estiver, ele exibirá uma mensagem de erro e encerrará a execução.
