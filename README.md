@@ -13,7 +13,6 @@ chmod +x TraceHunter.sh
 
 ## Uso
 Para executar o script, utilize o seguinte comando:
-```bash
 sudo ./TraceHunter.sh
 
 ### Observações
