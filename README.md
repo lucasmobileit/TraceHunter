@@ -6,18 +6,9 @@ O TraceHunter é um script em Bash projetado para coletar informações forenses
 O script deve ser executado em um sistema Linux.
 É necessário ter permissões de superusuário (root) para executar o script corretamente.
 
-## Instalação
-Clone o repositório ou baixe o script para o seu sistema.
-Dê permissão de execução ao script:
-chmod +x TraceHunter.sh
-
 ## Uso
 Para executar o script, utilize o seguinte comando:
-sudo ./TraceHunter.sh
-
-### Observações
-O script verifica se está sendo executado como root. Se não estiver, ele exibirá uma mensagem de erro e encerrará a execução.
-Todos os arquivos coletados serão armazenados em um diretório chamado collected_files, que será criado automaticamente.
+sudo ./TraceHunter.sh -> Certifique de ter dado permissão de execução para o script (chmod +x)
 
 ## O script coleta as seguintes informações
 
